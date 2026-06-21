@@ -1,2 +1,14 @@
 # club-hupu-notes
-HTML page archive and documentation
+
+页面发布与维护记录
+
+本仓库用于发布静态页面，后续文件会根据任务继续追加。
+
+## 目录内容
+
+- 页面文件：发布后的 HTML
+- 说明文件：README.md
+
+## 后续维护
+
+页面文件会随任务增加，可通过提交历史查看更新过程。
